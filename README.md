@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently developing expertise in React.js, Next.js and Node.js for full-stack application development<br><br>🎯 Goals: To design and deploy scalable, high-performance web applications and secure a remote software engineering role<br><br>🎲 Fun fact: I enjoy translating real-world business challenges into efficient software solutions</p>
+<p align="left">✨ Software development since 2024<br>📚 I'm currently developing expertise in React.js, Next.js and Node.js for full-stack application development<br><br>🎯 Goals: To design and deploy scalable, high-performance web applications and secure a remote software engineering role<br><br>🎲 Fun fact: I enjoy translating real-world business challenges into efficient software solutions</p>
 
 ###
 
